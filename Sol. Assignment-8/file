@@ -1,0 +1,5 @@
+Write a shell script to read a file and display the length of each word in the file.
+Output should be like:
+Word1 LengthofWord1
+Word2 LengthofWord2
+and so on
